@@ -26,7 +26,7 @@ Oxide plugin for Rust that places human NPCs with a fixed protection layer. They
 1. Copy `ThornNPC.cs` into `oxide/plugins/`.
 2. The plugin loads automatically. Create NPCs with `/npc_add`.
 
-Optional plugins: ImageLibrary (outfit icons in the GUI), Shop (shop links).
+Optional plugins: ImageLibrary (outfit icons in the GUI), [Shop by Mevent](https://codefling.com/plugins/shop) (shop links).
 
 ### Commands
 
@@ -66,7 +66,7 @@ File: `oxide/config/ThornNPC.json`. Created on first load.
 ### Dependencies
 
 - Rust with Oxide (Oxide.Rust)
-- Optional: ImageLibrary, Shop
+- Optional: ImageLibrary, [Shop by Mevent](https://codefling.com/plugins/shop)
 
 ### Changelog
 
@@ -102,7 +102,7 @@ Oxide-Plugin für Rust, das Menschen-NPCs mit einer festen Schutzschicht platzie
 1. `ThornNPC.cs` nach `oxide/plugins/` kopieren.
 2. Das Plugin lädt automatisch. NPCs legst du mit `/npc_add` an.
 
-Optionale Plugins: ImageLibrary (Kleidungs-Icons in der GUI), Shop (Shop-Verknüpfungen).
+Optionale Plugins: ImageLibrary (Kleidungs-Icons in der GUI), [Shop by Mevent](https://codefling.com/plugins/shop) (Shop-Verknüpfungen).
 
 ### Befehle
 
@@ -142,7 +142,7 @@ Datei: `oxide/config/ThornNPC.json`. Wird beim ersten Laden angelegt.
 ### Abhängigkeiten
 
 - Rust mit Oxide (Oxide.Rust)
-- Optional: ImageLibrary, Shop
+- Optional: ImageLibrary, [Shop by Mevent](https://codefling.com/plugins/shop)
 
 ### Changelog
 
